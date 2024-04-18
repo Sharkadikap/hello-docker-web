@@ -1,8 +1,6 @@
-# python-hello-world-app
+# hello docker web
 "Hello Docker" will be displayed on web browser with host ip port 80
-
-Go to your Docker Host Vm
 # run as superuser
+Go to your Docker Host Vm
 $ sudo su 
-
-run the run.sh shell script
+$ run.sh 
